@@ -117,6 +117,17 @@ special_mode_mask values:
       <A3Preview>whyred_s5k2l7_ofilm_cn_i_pano_preview_3a</A3Preview>
       <A3Video>whyred_s5k2l7_ofilm_cn_i_zsl_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="MIHDR">
+      <ISPPreview>whyred_s5k2l7_ofilm_cn_i_snapshot_hdr</ISPPreview>
+      <ISPSnapshot>whyred_s5k2l7_ofilm_cn_i_snapshot_hdr</ISPSnapshot>
+      <ISPVideo>whyred_s5k2l7_ofilm_cn_i_video</ISPVideo>
+      <CPPPreview>whyred_s5k2l7_ofilm_cn_i_cpp_snapshot_hdr</CPPPreview>
+      <CPPSnapshot>whyred_s5k2l7_ofilm_cn_i_cpp_snapshot_hdr</CPPSnapshot>
+      <CPPVideo>whyred_s5k2l7_ofilm_cn_i_cpp_video</CPPVideo>
+      <CPPLiveshot>whyred_s5k2l7_ofilm_cn_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>whyred_s5k2l7_ofilm_cn_i_zsl_preview_3a</A3Preview>
+      <A3Video>whyred_s5k2l7_ofilm_cn_i_zsl_video_3a</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>whyred_s5k2l7_ofilm_cn_i_video_4k</ISPPreview>
       <ISPSnapshot>whyred_s5k2l7_ofilm_cn_i_video_4k</ISPSnapshot>

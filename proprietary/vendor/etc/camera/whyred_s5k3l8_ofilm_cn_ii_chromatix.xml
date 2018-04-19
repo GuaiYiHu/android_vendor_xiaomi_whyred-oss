@@ -95,6 +95,17 @@ special_mode_mask values:
       <A3Preview>whyred_s5k3l8_ofilm_cn_ii_zsl_preview_ak7345</A3Preview>
       <A3Video>whyred_s5k3l8_ofilm_cn_ii_zsl_video_ak7345</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="MIHDR">
+      <ISPPreview>whyred_s5k3l8_ofilm_cn_ii_snapshot_hdr</ISPPreview>
+      <ISPSnapshot>whyred_s5k3l8_ofilm_cn_ii_snapshot_hdr</ISPSnapshot>
+      <ISPVideo>whyred_s5k3l8_ofilm_cn_ii_video_full</ISPVideo>
+      <CPPPreview>whyred_s5k3l8_ofilm_cn_ii_cpp_snapshot_hdr</CPPPreview>
+      <CPPSnapshot>whyred_s5k3l8_ofilm_cn_ii_cpp_snapshot_hdr</CPPSnapshot>
+      <CPPVideo>whyred_s5k3l8_ofilm_cn_ii_cpp_video_full</CPPVideo>
+      <CPPLiveshot>whyred_s5k3l8_ofilm_cn_ii_cpp_liveshot</CPPLiveshot>
+      <A3Preview>whyred_s5k3l8_ofilm_cn_ii_zsl_preview_ak7345</A3Preview>
+      <A3Video>whyred_s5k3l8_ofilm_cn_ii_zsl_video_ak7345</A3Video>
+    </ChromatixName>
 	<ChromatixName sensor_resolution_index="0" special_mode_mask="HHT MODE">
       <ISPPreview>whyred_s5k3l8_ofilm_cn_ii_preview</ISPPreview>
       <ISPSnapshot>whyred_s5k3l8_ofilm_cn_ii_snapshot</ISPSnapshot>
@@ -149,6 +160,17 @@ special_mode_mask values:
       <CPPLiveshot>whyred_s5k3l8_ofilm_cn_ii_cpp_video_weixin</CPPLiveshot>
       <A3Preview>whyred_s5k3l8_ofilm_cn_ii_weixin_video_3a</A3Preview>
       <A3Video>whyred_s5k3l8_ofilm_cn_ii_weixin_video_3a</A3Video>
+    </ChromatixName>
+	<ChromatixName sensor_resolution_index="1" special_mode_mask="FACE">
+      <ISPPreview>whyred_s5k3l8_ofilm_cn_ii_video_face</ISPPreview>
+      <ISPSnapshot>whyred_s5k3l8_ofilm_cn_ii_video_face</ISPSnapshot>
+      <ISPVideo>whyred_s5k3l8_ofilm_cn_ii_video_face</ISPVideo>
+      <CPPPreview>whyred_s5k3l8_ofilm_cn_ii_cpp_video_face</CPPPreview>
+      <CPPSnapshot>whyred_s5k3l8_ofilm_cn_ii_cpp_video_face</CPPSnapshot>
+      <CPPVideo>whyred_s5k3l8_ofilm_cn_ii_cpp_video_face</CPPVideo>
+      <CPPLiveshot>whyred_s5k3l8_ofilm_cn_ii_cpp_video_face</CPPLiveshot>
+      <A3Preview>whyred_s5k3l8_ofilm_cn_ii_face_video_3a</A3Preview>
+      <A3Video>whyred_s5k3l8_ofilm_cn_ii_face_video_3a</A3Video>
     </ChromatixName>
 	<ChromatixName sensor_resolution_index="1" special_mode_mask="HHT MODE">
       <ISPPreview>whyred_s5k3l8_ofilm_cn_ii_preview</ISPPreview>

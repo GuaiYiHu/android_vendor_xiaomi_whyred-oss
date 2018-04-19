@@ -106,17 +106,6 @@ special_mode_mask values:
       <A3Preview>wayne_imx486_sunny_cn_i_zsl_preview_3a</A3Preview>
       <A3Video>wayne_imx486_sunny_cn_i_zsl_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="0" special_mode_mask="WEIXIN">
-      <ISPPreview>wayne_imx486_sunny_cn_i_video_weixin</ISPPreview>
-      <ISPSnapshot>wayne_imx486_sunny_cn_i_video_weixin</ISPSnapshot>
-      <ISPVideo>wayne_imx486_sunny_cn_i_video_weixin</ISPVideo>
-      <CPPPreview>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPPreview>
-      <CPPSnapshot>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPSnapshot>
-      <CPPVideo>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPVideo>
-      <CPPLiveshot>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPLiveshot>
-      <A3Preview>wayne_imx486_sunny_cn_i_weixin_video_3a</A3Preview>
-      <A3Video>wayne_imx486_sunny_cn_i_weixin_video_3a</A3Video>
-    </ChromatixName>
     <ChromatixName sensor_resolution_index="0" special_mode_mask="PANORAMA">
       <ISPPreview>wayne_imx486_sunny_cn_i_snapshot</ISPPreview>
       <ISPSnapshot>wayne_imx486_sunny_cn_i_snapshot</ISPSnapshot>
@@ -127,6 +116,17 @@ special_mode_mask values:
       <CPPLiveshot>wayne_imx486_sunny_cn_i_cpp_liveshot</CPPLiveshot>
       <A3Preview>wayne_imx486_sunny_cn_i_pano_preview_3a</A3Preview>
       <A3Video>wayne_imx486_sunny_cn_i_zsl_video_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="BOKEH">
+      <ISPPreview>wayne_imx486_sunny_cn_i_bokeh_preview</ISPPreview>
+      <ISPSnapshot>wayne_imx486_sunny_cn_i_bokeh_preview</ISPSnapshot>
+      <ISPVideo>wayne_imx486_sunny_cn_i_video</ISPVideo>
+      <CPPPreview>wayne_imx486_sunny_cn_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>wayne_imx486_sunny_cn_i_cpp_snapshot_bokeh</CPPSnapshot>
+      <CPPVideo>wayne_imx486_sunny_cn_i_cpp_video</CPPVideo>
+      <CPPLiveshot>wayne_imx486_sunny_cn_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>wayne_imx486_sunny_cn_i_bokeh_preview_3a</A3Preview>
+      <A3Video>wayne_imx486_sunny_cn_i_default_video_3a</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>wayne_imx486_sunny_cn_i_preview</ISPPreview>
@@ -139,15 +139,15 @@ special_mode_mask values:
       <A3Preview>wayne_imx486_sunny_cn_i_default_preview_3a</A3Preview>
       <A3Video>wayne_imx486_sunny_cn_i_default_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="1" special_mode_mask="BOKEH">
-      <ISPPreview>wayne_imx486_sunny_cn_i_bokeh_preview</ISPPreview>
-      <ISPSnapshot>wayne_imx486_sunny_cn_i_bokeh_preview</ISPSnapshot>
+   <ChromatixName sensor_resolution_index="1" special_mode_mask="HHT MODE">
+      <ISPPreview>wayne_imx486_sunny_cn_i_preview</ISPPreview>
+      <ISPSnapshot>wayne_imx486_sunny_cn_i_preview</ISPSnapshot>
       <ISPVideo>wayne_imx486_sunny_cn_i_video</ISPVideo>
       <CPPPreview>wayne_imx486_sunny_cn_i_cpp_preview</CPPPreview>
       <CPPSnapshot>wayne_imx486_sunny_cn_i_cpp_snapshot_hht</CPPSnapshot>
       <CPPVideo>wayne_imx486_sunny_cn_i_cpp_video</CPPVideo>
       <CPPLiveshot>wayne_imx486_sunny_cn_i_cpp_liveshot</CPPLiveshot>
-      <A3Preview>wayne_imx486_sunny_cn_i_bokeh_preview_3a</A3Preview>
+      <A3Preview>wayne_imx486_sunny_cn_i_default_preview_3a</A3Preview>
       <A3Video>wayne_imx486_sunny_cn_i_default_video_3a</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="2" special_mode_mask="0">
@@ -160,6 +160,17 @@ special_mode_mask values:
       <CPPLiveshot>wayne_imx486_sunny_cn_i_cpp_liveshot</CPPLiveshot>
       <A3Preview>wayne_imx486_sunny_cn_i_default_preview_3a</A3Preview>
       <A3Video>wayne_imx486_sunny_cn_i_default_video_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="2" special_mode_mask="WEIXIN">
+      <ISPPreview>wayne_imx486_sunny_cn_i_video_weixin</ISPPreview>
+      <ISPSnapshot>wayne_imx486_sunny_cn_i_video_weixin</ISPSnapshot>
+      <ISPVideo>wayne_imx486_sunny_cn_i_video_weixin</ISPVideo>
+      <CPPPreview>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPPreview>
+      <CPPSnapshot>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPSnapshot>
+      <CPPVideo>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPVideo>
+      <CPPLiveshot>wayne_imx486_sunny_cn_i_cpp_video_weixin</CPPLiveshot>
+      <A3Preview>wayne_imx486_sunny_cn_i_weixin_video_3a</A3Preview>
+      <A3Video>wayne_imx486_sunny_cn_i_weixin_video_3a</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="2" special_mode_mask="HHT MODE">
       <ISPPreview>wayne_imx486_sunny_cn_i_preview</ISPPreview>

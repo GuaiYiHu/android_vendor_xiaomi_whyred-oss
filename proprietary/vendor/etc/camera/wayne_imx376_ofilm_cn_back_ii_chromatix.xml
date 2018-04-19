@@ -122,12 +122,11 @@ special_mode_mask values:
       <ISPSnapshot>wayne_imx376_ofilm_cn_back_ii_bokeh_preview</ISPSnapshot>
       <ISPVideo>wayne_imx376_ofilm_cn_back_ii_video_default</ISPVideo>
       <CPPPreview>wayne_imx376_ofilm_cn_back_ii_cpp_preview</CPPPreview>
-      <CPPSnapshot>wayne_imx376_ofilm_cn_back_ii_cpp_snapshot_5M</CPPSnapshot>
+      <CPPSnapshot>wayne_imx376_ofilm_cn_back_ii_cpp_snapshot_bokeh</CPPSnapshot>
       <CPPVideo>wayne_imx376_ofilm_cn_back_ii_cpp_video_default</CPPVideo>
       <CPPLiveshot>wayne_imx376_ofilm_cn_back_ii_cpp_liveshot</CPPLiveshot>
       <A3Preview>wayne_imx376_ofilm_cn_back_ii_bokeh_preview_3a</A3Preview>
       <A3Video>wayne_imx376_ofilm_cn_back_ii_fullsize_video_3a</A3Video>
     </ChromatixName>
-
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
