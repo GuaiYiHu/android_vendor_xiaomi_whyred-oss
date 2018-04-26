@@ -106,6 +106,17 @@ special_mode_mask values:
       <A3Preview>wayne_imx376_sunny_cn_front_i_fullsize_preview_3a</A3Preview>
       <A3Video>wayne_imx376_sunny_cn_front_i_fullsize_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
+      <ISPPreview>wayne_imx376_sunny_cn_front_i_preview</ISPPreview>
+      <ISPSnapshot>wayne_imx376_sunny_cn_front_i_preview</ISPSnapshot>
+      <ISPVideo>wayne_imx376_sunny_cn_front_i_video_default</ISPVideo>
+      <CPPPreview>wayne_imx376_sunny_cn_front_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>wayne_imx376_sunny_cn_front_i_cpp_snapshot_5M</CPPSnapshot>
+      <CPPVideo>wayne_imx376_sunny_cn_front_i_cpp_video_default</CPPVideo>
+      <CPPLiveshot>wayne_imx376_sunny_cn_front_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>wayne_imx376_sunny_cn_front_i_fullsize_preview_3a</A3Preview>
+      <A3Video>wayne_imx376_sunny_cn_front_i_fullsize_video_3a</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="FRONTFLASH">
       <ISPPreview>wayne_imx376_sunny_cn_front_i_flash_preview</ISPPreview>
       <ISPSnapshot>wayne_imx376_sunny_cn_front_i_flash_snapshot</ISPSnapshot>
@@ -128,7 +139,7 @@ special_mode_mask values:
       <A3Preview>wayne_imx376_sunny_cn_front_i_weixin_video_3a</A3Preview>
       <A3Video>wayne_imx376_sunny_cn_front_i_weixin_video_3a</A3Video>
     </ChromatixName>
-	<ChromatixName sensor_resolution_index="1" special_mode_mask="FACE">
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="FACE">
       <ISPPreview>wayne_imx376_sunny_cn_front_i_video_face</ISPPreview>
       <ISPSnapshot>wayne_imx376_sunny_cn_front_i_video_face</ISPSnapshot>
       <ISPVideo>wayne_imx376_sunny_cn_front_i_video_face</ISPVideo>
@@ -139,12 +150,12 @@ special_mode_mask values:
       <A3Preview>wayne_imx376_sunny_cn_front_i_face_video_3a</A3Preview>
       <A3Video>wayne_imx376_sunny_cn_front_i_face_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="MIHDR">
       <ISPPreview>wayne_imx376_sunny_cn_front_i_preview</ISPPreview>
-      <ISPSnapshot>wayne_imx376_sunny_cn_front_i_preview</ISPSnapshot>
+      <ISPSnapshot>wayne_imx376_sunny_cn_front_i_snapshot_hdr</ISPSnapshot>
       <ISPVideo>wayne_imx376_sunny_cn_front_i_video_default</ISPVideo>
       <CPPPreview>wayne_imx376_sunny_cn_front_i_cpp_preview</CPPPreview>
-      <CPPSnapshot>wayne_imx376_sunny_cn_front_i_cpp_snapshot_5M</CPPSnapshot>
+      <CPPSnapshot>wayne_imx376_sunny_cn_front_i_cpp_snapshot_hdr</CPPSnapshot>
       <CPPVideo>wayne_imx376_sunny_cn_front_i_cpp_video_default</CPPVideo>
       <CPPLiveshot>wayne_imx376_sunny_cn_front_i_cpp_liveshot</CPPLiveshot>
       <A3Preview>wayne_imx376_sunny_cn_front_i_fullsize_preview_3a</A3Preview>

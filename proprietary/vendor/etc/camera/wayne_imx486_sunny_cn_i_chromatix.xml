@@ -128,6 +128,17 @@ special_mode_mask values:
       <A3Preview>wayne_imx486_sunny_cn_i_bokeh_preview_3a</A3Preview>
       <A3Video>wayne_imx486_sunny_cn_i_default_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="MIHDR">
+      <ISPPreview>wayne_imx486_sunny_cn_i_snapshot</ISPPreview>
+      <ISPSnapshot>wayne_imx486_sunny_cn_i_snapshot_hdr</ISPSnapshot>
+      <ISPVideo>wayne_imx486_sunny_cn_i_video</ISPVideo>
+      <CPPPreview>wayne_imx486_sunny_cn_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>wayne_imx486_sunny_cn_i_cpp_snapshot_hdr</CPPSnapshot>
+      <CPPVideo>wayne_imx486_sunny_cn_i_cpp_video</CPPVideo>
+      <CPPLiveshot>wayne_imx486_sunny_cn_i_cpp_liveshot</CPPLiveshot>
+      <A3Preview>wayne_imx486_sunny_cn_i_zsl_preview_3a</A3Preview>
+      <A3Video>wayne_imx486_sunny_cn_i_zsl_video_3a</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>wayne_imx486_sunny_cn_i_preview</ISPPreview>
       <ISPSnapshot>wayne_imx486_sunny_cn_i_preview</ISPSnapshot>
