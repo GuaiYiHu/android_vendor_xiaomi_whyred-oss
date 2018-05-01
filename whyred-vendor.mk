@@ -1620,6 +1620,7 @@ PRODUCT_PACKAGES += \
     embms \
     ims \
     imssettings \
+    uceShimService \
     CNEService \
     dpmserviceapp \
     qcrilmsgtunnel \
