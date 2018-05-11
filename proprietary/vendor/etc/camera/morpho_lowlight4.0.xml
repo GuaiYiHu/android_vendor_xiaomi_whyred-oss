@@ -4,63 +4,63 @@
   <device name="whyred">
     <camera id="0">
       <iso value="104">
-        <ynr_weights>0,4,4,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,8,6,4,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>2</y_nr_level>
-        <c_nr_level>5</c_nr_level>
-        <c_nr_times>1</c_nr_times>
-        <obc>3</obc>
+        <ynr_weights>0,3,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,6,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>1</y_nr_level>
+        <c_nr_level>15</c_nr_level>
+        <c_nr_times>2</c_nr_times>
+        <obc>3.0</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>100</sharpness>
+        <sharpness>0</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>0</block_cnr>
-        <mergenumber>4</mergenumber>
+        <mergenumber>3</mergenumber>
       </iso>
 
 	  <iso value="204">
-        <ynr_weights>0,4,4,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,8,6,4,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>3</y_nr_level>
-        <c_nr_level>10</c_nr_level>
+        <ynr_weights>0,4,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,6,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>1</y_nr_level>
+        <c_nr_level>15</c_nr_level>
         <c_nr_times>2</c_nr_times>
-        <obc>3</obc>
+        <obc>3.0</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>100</sharpness>
+        <sharpness>0</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
-        <mergenumber>5</mergenumber>
+        <mergenumber>3</mergenumber>
       </iso>
 
 	  <iso value="400">
-        <ynr_weights>0,4,4,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,8,6,4,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>8</y_nr_level>
-        <c_nr_level>12</c_nr_level>
+        <ynr_weights>0,6,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,6,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>1</y_nr_level>
+        <c_nr_level>16</c_nr_level>
         <c_nr_times>3</c_nr_times>
-        <obc>3</obc>
+        <obc>3.0</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>100</sharpness>
+        <sharpness>0</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
-        <mergenumber>5</mergenumber>
+        <mergenumber>4</mergenumber>
       </iso>
 
       <iso value="900">
-        <ynr_weights>0,4,2,1,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,8,6,4,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>12</y_nr_level>
-        <c_nr_level>20</c_nr_level>
-        <c_nr_times>3</c_nr_times>
-        <obc>2</obc>
+        <ynr_weights>0,6,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,8,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>3</y_nr_level>
+        <c_nr_level>17</c_nr_level>
+        <c_nr_times>4</c_nr_times>
+        <obc>1.6</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
@@ -68,16 +68,16 @@
         <sharpness>100</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
-        <mergenumber>5</mergenumber>
+        <mergenumber>4</mergenumber>
       </iso>
 
 	  <iso value="1700">
-        <ynr_weights>0,4,2,1,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,10,6,4,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>20</y_nr_level>
-        <c_nr_level>30</c_nr_level>
-        <c_nr_times>3</c_nr_times>
-        <obc>1</obc>
+        <ynr_weights>0,5,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,8,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>4</y_nr_level>
+        <c_nr_level>18</c_nr_level>
+        <c_nr_times>4</c_nr_times>
+        <obc>1.2</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
@@ -85,55 +85,89 @@
         <sharpness>100</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
-        <mergenumber>5</mergenumber>
+        <mergenumber>4</mergenumber>
       </iso>
 
-	  <iso value="3300">
-        <ynr_weights>0,10,5,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,12,8,6,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>30</y_nr_level>
-        <c_nr_level>50</c_nr_level>
-        <c_nr_times>3</c_nr_times>
+      <iso value="2400">
+        <ynr_weights>0,5,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,8,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>8</y_nr_level>
+        <c_nr_level>20</c_nr_level>
+        <c_nr_times>4</c_nr_times>
         <obc>0.8</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>200</sharpness>
+        <sharpness>100</sharpness>
+        <spike_noise_level>16</spike_noise_level>
+        <block_cnr>1</block_cnr>
+        <mergenumber>4</mergenumber>
+      </iso>
+
+	  <iso value="3300">
+        <ynr_weights>0,6,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,10,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>10</y_nr_level>
+        <c_nr_level>30</c_nr_level>
+        <c_nr_times>4</c_nr_times>
+        <obc>0.3</obc>
+        <gain>100</gain>
+        <gamma>100</gamma>
+        <contrast>0</contrast>
+        <saturation>1024</saturation>
+        <sharpness>100</sharpness>
+        <spike_noise_level>16</spike_noise_level>
+        <block_cnr>1</block_cnr>
+        <mergenumber>4</mergenumber>
+      </iso>
+
+      <iso value="4800">
+        <ynr_weights>0,8,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,10,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>10</y_nr_level>
+        <c_nr_level>30</c_nr_level>
+        <c_nr_times>4</c_nr_times>
+        <obc>0.3</obc>
+        <gain>100</gain>
+        <gamma>100</gamma>
+        <contrast>0</contrast>
+        <saturation>1024</saturation>
+        <sharpness>100</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
         <mergenumber>5</mergenumber>
       </iso>
 
       <iso value="6400">
-        <ynr_weights>0,20,10,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,12,8,6,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>60</y_nr_level>
-        <c_nr_level>70</c_nr_level>
+        <ynr_weights>0,10,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,10,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>12</y_nr_level>
+        <c_nr_level>35</c_nr_level>
         <c_nr_times>4</c_nr_times>
-        <obc>0.5</obc>
+        <obc>0.3</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
         <saturation>1024</saturation>
-        <sharpness>200</sharpness>
+        <sharpness>100</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
         <mergenumber>5</mergenumber>
       </iso>
 
       <iso value="9500">
-        <ynr_weights>0,20,10,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,12,8,6,4,4,2,2,2,2,2</cnr_weights>
-        <y_nr_level>100</y_nr_level>
-        <c_nr_level>100</c_nr_level>
+        <ynr_weights>0,10,2,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,10,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <y_nr_level>70</y_nr_level>
+        <c_nr_level>40</c_nr_level>
         <c_nr_times>5</c_nr_times>
-        <obc>0.5</obc>
-        <gain>130</gain>
+        <obc>0.3</obc>
+        <gain>140</gain>
         <gamma>100</gamma>
-        <contrast>0</contrast>
+        <contrast>20</contrast>
         <saturation>1024</saturation>
-        <sharpness>200</sharpness>
+        <sharpness>100</sharpness>
         <spike_noise_level>16</spike_noise_level>
         <block_cnr>1</block_cnr>
         <mergenumber>5</mergenumber>
