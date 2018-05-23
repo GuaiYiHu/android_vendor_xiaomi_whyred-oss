@@ -95,17 +95,6 @@ special_mode_mask values:
       <A3Preview>whyred_s5k2l7_qtech_cn_ii_zsl_preview_3a</A3Preview>
       <A3Video>whyred_s5k2l7_qtech_cn_ii_zsl_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="0" special_mode_mask="MIHDR">
-      <ISPPreview>whyred_s5k2l7_qtech_cn_ii_snapshot_hdr</ISPPreview>
-      <ISPSnapshot>whyred_s5k2l7_qtech_cn_ii_snapshot_hdr</ISPSnapshot>
-      <ISPVideo>whyred_s5k2l7_qtech_cn_ii_video</ISPVideo>
-      <CPPPreview>whyred_s5k2l7_qtech_cn_ii_cpp_snapshot_hdr</CPPPreview>
-      <CPPSnapshot>whyred_s5k2l7_qtech_cn_ii_cpp_snapshot_hdr</CPPSnapshot>
-      <CPPVideo>whyred_s5k2l7_qtech_cn_ii_cpp_video</CPPVideo>
-      <CPPLiveshot>whyred_s5k2l7_qtech_cn_ii_cpp_liveshot</CPPLiveshot>
-      <A3Preview>whyred_s5k2l7_qtech_cn_ii_zsl_preview_3a</A3Preview>
-      <A3Video>whyred_s5k2l7_qtech_cn_ii_zsl_video_3a</A3Video>
-    </ChromatixName>
     <ChromatixName sensor_resolution_index="0" special_mode_mask="HHT MODE">
       <ISPPreview>whyred_s5k2l7_qtech_cn_ii_snapshot</ISPPreview>
       <ISPSnapshot>whyred_s5k2l7_qtech_cn_ii_snapshot</ISPSnapshot>
@@ -126,17 +115,6 @@ special_mode_mask values:
       <CPPVideo>whyred_s5k2l7_qtech_cn_ii_cpp_video</CPPVideo>
       <CPPLiveshot>whyred_s5k2l7_qtech_cn_ii_cpp_liveshot</CPPLiveshot>
       <A3Preview>whyred_s5k2l7_qtech_cn_ii_pano_preview_3a</A3Preview>
-      <A3Video>whyred_s5k2l7_qtech_cn_ii_zsl_video_3a</A3Video>
-    </ChromatixName>
-    <ChromatixName sensor_resolution_index="0" special_mode_mask="BOKEH">
-      <ISPPreview>whyred_s5k2l7_qtech_cn_ii_bokeh_snapshot</ISPPreview>
-      <ISPSnapshot>whyred_s5k2l7_qtech_cn_ii_bokeh_snapshot</ISPSnapshot>
-      <ISPVideo>whyred_s5k2l7_qtech_cn_ii_video</ISPVideo>
-      <CPPPreview>whyred_s5k2l7_qtech_cn_ii_cpp_preview</CPPPreview>
-      <CPPSnapshot>whyred_s5k2l7_qtech_cn_ii_cpp_snapshot</CPPSnapshot>
-      <CPPVideo>whyred_s5k2l7_qtech_cn_ii_cpp_video</CPPVideo>
-      <CPPLiveshot>whyred_s5k2l7_qtech_cn_ii_cpp_liveshot</CPPLiveshot>
-      <A3Preview>whyred_s5k2l7_qtech_cn_ii_bokeh_preview_3a</A3Preview>
       <A3Video>whyred_s5k2l7_qtech_cn_ii_zsl_video_3a</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">

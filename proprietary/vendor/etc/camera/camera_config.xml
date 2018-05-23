@@ -135,13 +135,13 @@ LensInfo : Information of the lens present in the module.
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
   </CameraModuleConfig>
-   <CameraModuleConfig>
+  <CameraModuleConfig>
     <CameraId>1</CameraId>
-    <SensorName>whyred_imx486_ofilm_global_i</SensorName>
-   <ActuatorName>whyred_imx486_ofilm_global_i_dw9714v</ActuatorName>
-   <EepromName>whyred_imx486_ofilm_global_i</EepromName>
+    <SensorName>imx486_ofilm_gp0694</SensorName>
+    <ActuatorName>imx486_ofilm_gp0694_dw9714v</ActuatorName>
+    <EepromName>imx486_ogp0694_ofilm</EepromName>
     <FlashName>pmic</FlashName>
-    <ChromatixName>whyred_imx486_ofilm_global_i_chromatix</ChromatixName>
+    <ChromatixName>imx486_ofilm_gp0694_chromatix</ChromatixName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
     <MountAngle>90</MountAngle>
@@ -152,36 +152,11 @@ LensInfo : Information of the lens present in the module.
       <ComboMode>0</ComboMode>
     </CSIInfo>
     <LensInfo>
-      <FocalLength>3.81</FocalLength>
-      <FNumber>2.2</FNumber>
-      <TotalFocusDistance>2.4</TotalFocusDistance>
-      <HorizontalViewAngle>78</HorizontalViewAngle>
-      <VerticalViewAngle>60.0</VerticalViewAngle>
-      <MinFocusDistance>0.1</MinFocusDistance>
-    </LensInfo>
-  </CameraModuleConfig>
-    <CameraModuleConfig>
-    <CameraId>1</CameraId>
-    <SensorName>whyred_imx486_qtech_global_ii</SensorName>
-    <ActuatorName>whyred_imx486_qtech_global_ii_dw9714v</ActuatorName>
-    <EepromName>whyred_imx486_qtech_global_ii</EepromName>
-    <FlashName>pmic</FlashName>
-    <ChromatixName>whyred_imx486_qtech_global_ii_chromatix</ChromatixName>
-    <ModesSupported>1</ModesSupported>
-    <Position>BACK</Position>
-    <MountAngle>90</MountAngle>
-    <CSIInfo>
-      <CSIDCore>0</CSIDCore>
-      <LaneMask>0x1F</LaneMask>
-      <LaneAssign>0x4320</LaneAssign>
-      <ComboMode>0</ComboMode>
-    </CSIInfo>
-    <LensInfo>
-      <FocalLength>3.81</FocalLength>
-      <FNumber>2.2</FNumber>
-      <TotalFocusDistance>2.4</TotalFocusDistance>
-      <HorizontalViewAngle>78</HorizontalViewAngle>
-      <VerticalViewAngle>60.0</VerticalViewAngle>
+      <FocalLength>0.83</FocalLength>
+      <FNumber>2.0</FNumber>
+      <TotalFocusDistance>0.4</TotalFocusDistance>
+      <HorizontalViewAngle>133.2</HorizontalViewAngle>
+      <VerticalViewAngle>99.9</VerticalViewAngle>
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
   </CameraModuleConfig>
@@ -235,39 +210,14 @@ LensInfo : Information of the lens present in the module.
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
   </CameraModuleConfig>
-   <CameraModuleConfig>
-    <CameraId>2</CameraId>
-    <SensorName>whyred_imx376_ofilm_global_i</SensorName> 
-    <EepromName>whyred_imx376_ofilm_global_i</EepromName>
-    <ChromatixName>whyred_imx376_ofilm_global_i_chromatix</ChromatixName>
-    <FlashName>pmic</FlashName>
-    <ModesSupported>1</ModesSupported>
-    <Position>FRONT</Position>
-    <MountAngle>270</MountAngle>
-    <CSIInfo>
-      <CSIDCore>2</CSIDCore>
-      <LaneMask>0x1F</LaneMask>
-      <LaneAssign>0x4320</LaneAssign>
-      <ComboMode>0</ComboMode>
-    </CSIInfo>
-    <LensInfo>
-      <FocalLength>3.82</FocalLength>
-      <FNumber>2.2</FNumber>
-      <TotalFocusDistance>3.5</TotalFocusDistance>
-      <HorizontalViewAngle>66.1</HorizontalViewAngle>
-      <VerticalViewAngle>52.1</VerticalViewAngle>
-      <MinFocusDistance>0.1</MinFocusDistance>
-    </LensInfo>
-  </CameraModuleConfig>
   <CameraModuleConfig>
     <CameraId>2</CameraId>
-    <SensorName>whyred_imx376_sunny_global_ii</SensorName> 
-    <EepromName>whyred_imx376_sunny_global_ii</EepromName>
-    <ChromatixName>whyred_imx376_sunny_global_ii_chromatix</ChromatixName>
+    <SensorName>imx376</SensorName> 
+    <ChromatixName>imx376_chromatix</ChromatixName>
     <FlashName>pmic</FlashName>
     <ModesSupported>1</ModesSupported>
     <Position>FRONT</Position>
-    <MountAngle>270</MountAngle>
+    <MountAngle>90</MountAngle>
     <CSIInfo>
       <CSIDCore>2</CSIDCore>
       <LaneMask>0x1F</LaneMask>
@@ -275,11 +225,11 @@ LensInfo : Information of the lens present in the module.
       <ComboMode>0</ComboMode>
     </CSIInfo>
     <LensInfo>
-      <FocalLength>3.82</FocalLength>
-      <FNumber>2.2</FNumber>
-      <TotalFocusDistance>3.5</TotalFocusDistance>
-      <HorizontalViewAngle>66.1</HorizontalViewAngle>
-      <VerticalViewAngle>52.1</VerticalViewAngle>
+      <FocalLength>3.79</FocalLength>
+      <FNumber>2.0</FNumber>
+      <TotalFocusDistance>4.0</TotalFocusDistance>
+      <HorizontalViewAngle>63.2</HorizontalViewAngle>
+      <VerticalViewAngle>49</VerticalViewAngle>
       <MinFocusDistance>0.1</MinFocusDistance>
     </LensInfo>
   </CameraModuleConfig>
