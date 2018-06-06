@@ -523,6 +523,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQSEEComAPI.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libQTEEConnector_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQTEEConnector_vendor.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libRSDriver_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/libRSDriver_adreno.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libSNPE.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSNPE.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libSecureUILib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSecureUILib.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libStDrvInt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libStDrvInt.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libSubSystemShutdown.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSubSystemShutdown.so \
@@ -565,6 +566,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libc2d30-a4xx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30-a4xx.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libc2d30-a5xx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30-a5xx.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libc2d30_bltlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30_bltlib.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libcamera_scene.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera_scene.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libcdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcdsprpc.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromaflash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromaflash.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_csidtg_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_csidtg_common.so \
@@ -577,7 +579,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_preview.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_5M.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_5M.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_5M_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_5M_hht.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_downscale.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_downscale.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_hht.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_upscale.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_snapshot_upscale.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_video.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_video_default.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_ofilm_global_i_cpp_video_default.so \
@@ -609,7 +613,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_preview.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_5M.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_5M.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_5M_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_5M_hht.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_downscale.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_downscale.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_hht.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_upscale.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_snapshot_upscale.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_video.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_video_default.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_cpp_video_default.so \
@@ -636,6 +642,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_video_face.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_video_face.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_video_weixin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_video_weixin.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx376_sunny_global_ii_weixin_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx376_sunny_global_ii_weixin_video_3a.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_bokeh_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_bokeh_preview.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_bokeh_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_bokeh_preview_3a.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_bokeh_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_bokeh_snapshot.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_common.so \
@@ -645,6 +652,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_liveshot.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_preview.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_snapshot.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_snapshot_hht.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_video.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_video_weixin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_cpp_video_weixin.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_default_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_default_preview_3a.so \
@@ -665,6 +673,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_weixin_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_weixin_video_3a.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_zsl_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_zsl_preview_3a.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_ofilm_global_i_zsl_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_ofilm_global_i_zsl_video_3a.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_qtech_global_ii_bokeh_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_qtech_global_ii_bokeh_preview.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_qtech_global_ii_bokeh_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_qtech_global_ii_bokeh_preview_3a.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_qtech_global_ii_bokeh_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_qtech_global_ii_bokeh_snapshot.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_imx486_qtech_global_ii_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_imx486_qtech_global_ii_common.so \
@@ -744,6 +753,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_4k_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_4k_video_3a.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_bokeh_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_bokeh_preview.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_bokeh_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_bokeh_preview_3a.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_bokeh_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_bokeh_snapshot.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_common.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_cpp_hfr_120.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_ofilm_cn_i_cpp_hfr_60.so \
@@ -779,6 +789,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_4k_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_4k_video_3a.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_bokeh_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_bokeh_preview.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_bokeh_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_bokeh_preview_3a.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_bokeh_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_bokeh_snapshot.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_common.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_cpp_hfr_120.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_whyred_s5k2l7_qtech_cn_ii_cpp_hfr_60.so \
@@ -992,6 +1003,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libgcs.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgcs.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libgdtap.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgdtap.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libgeofence.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgeofence.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libgnustl_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgnustl_shared.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgsl.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libhal_dbg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhal_dbg.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libhbtpclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhbtpclient.so \
@@ -1238,6 +1250,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libssd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libssd.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libsubsystem_control.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsubsystem_control.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libsurround_3mic_proc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsurround_3mic_proc.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libsymphony-cpu.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphony-cpu.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libsymphonypower.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsymphonypower.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libsystem_health_mon.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsystem_health_mon.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libtinyxml2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyxml2_1.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libts_detected_face_hal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libts_detected_face_hal.so \

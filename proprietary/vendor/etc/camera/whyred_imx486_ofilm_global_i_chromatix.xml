@@ -106,6 +106,28 @@ special_mode_mask values:
       <A3Preview>whyred_imx486_ofilm_global_i_pano_preview_3a</A3Preview>
       <A3Video>whyred_imx486_ofilm_global_i_zsl_video_3a</A3Video>
     </ChromatixName>
+    <ChromatixName sensor_resolution_index="0" special_mode_mask="HHT MODE">
+      <ISPPreview>whyred_imx486_ofilm_global_i_snapshot</ISPPreview>
+      <ISPSnapshot>whyred_imx486_ofilm_global_i_snapshot</ISPSnapshot>
+      <ISPVideo>whyred_imx486_ofilm_global_i_default_video</ISPVideo>
+      <CPPPreview>whyred_imx486_ofilm_global_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>whyred_imx486_ofilm_global_i_cpp_snapshot_hht</CPPSnapshot>
+      <CPPLiveshot>whyred_imx486_ofilm_global_i_cpp_liveshot</CPPLiveshot>
+      <CPPVideo>whyred_imx486_ofilm_global_i_cpp_video</CPPVideo>
+      <A3Preview>whyred_imx486_ofilm_global_i_zsl_preview_3a</A3Preview>
+      <A3Video>whyred_imx486_ofilm_global_i_zsl_video_3a</A3Video>
+    </ChromatixName>
+	<ChromatixName sensor_resolution_index="0" special_mode_mask="BOKEH">
+      <ISPPreview>whyred_imx486_ofilm_global_i_bokeh_snapshot</ISPPreview>
+      <ISPSnapshot>whyred_imx486_ofilm_global_i_bokeh_snapshot</ISPSnapshot>
+      <ISPVideo>whyred_imx486_ofilm_global_i_default_video</ISPVideo>
+      <CPPPreview>whyred_imx486_ofilm_global_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>whyred_imx486_ofilm_global_i_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>whyred_imx486_ofilm_global_i_cpp_liveshot</CPPLiveshot>
+      <CPPVideo>whyred_imx486_ofilm_global_i_cpp_video</CPPVideo>
+      <A3Preview>whyred_imx486_ofilm_global_i_bokeh_preview_3a</A3Preview>
+      <A3Video>whyred_imx486_ofilm_global_i_zsl_video_3a</A3Video>
+    </ChromatixName>
     <ChromatixName sensor_resolution_index="1">
       <ISPPreview>whyred_imx486_ofilm_global_i_preview</ISPPreview>
       <ISPSnapshot>whyred_imx486_ofilm_global_i_preview</ISPSnapshot>
@@ -117,16 +139,16 @@ special_mode_mask values:
       <A3Preview>whyred_imx486_ofilm_global_i_default_preview_3a</A3Preview>
       <A3Video>whyred_imx486_ofilm_global_i_default_video_3a</A3Video>
     </ChromatixName>
-    <ChromatixName sensor_resolution_index="2" special_mode_mask="BOKEH">
-      <ISPPreview>whyred_imx486_ofilm_global_i_bokeh_snapshot</ISPPreview>
-      <ISPSnapshot>whyred_imx486_ofilm_global_i_bokeh_snapshot</ISPSnapshot>
-      <ISPVideo>whyred_imx486_ofilm_global_i_default_video</ISPVideo>
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="HHT MODE">
+      <ISPPreview>whyred_imx486_ofilm_global_i_preview</ISPPreview>
+      <ISPSnapshot>whyred_imx486_ofilm_global_i_preview</ISPSnapshot>
+      <ISPVideo>whyred_imx486_ofilm_global_i_preview</ISPVideo>
       <CPPPreview>whyred_imx486_ofilm_global_i_cpp_preview</CPPPreview>
-      <CPPSnapshot>whyred_imx486_ofilm_global_i_cpp_snapshot</CPPSnapshot>
+      <CPPSnapshot>whyred_imx486_ofilm_global_i_cpp_snapshot_hht</CPPSnapshot>
       <CPPLiveshot>whyred_imx486_ofilm_global_i_cpp_liveshot</CPPLiveshot>
       <CPPVideo>whyred_imx486_ofilm_global_i_cpp_video</CPPVideo>
-      <A3Preview>whyred_imx486_ofilm_global_i_bokeh_preview_3a</A3Preview>
-      <A3Video>whyred_imx486_ofilm_global_i_zsl_video_3a</A3Video>
+      <A3Preview>whyred_imx486_ofilm_global_i_default_preview_3a</A3Preview>
+      <A3Video>whyred_imx486_ofilm_global_i_default_video_3a</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="2">
       <ISPPreview>whyred_imx486_ofilm_global_i_preview</ISPPreview>
@@ -137,6 +159,28 @@ special_mode_mask values:
       <CPPLiveshot>whyred_imx486_ofilm_global_i_cpp_liveshot</CPPLiveshot>
       <CPPVideo>whyred_imx486_ofilm_global_i_cpp_video</CPPVideo>
       <A3Preview>whyred_imx486_ofilm_global_i_default_preview_3a</A3Preview>
+      <A3Video>whyred_imx486_ofilm_global_i_default_video_3a</A3Video>
+    </ChromatixName>
+    <ChromatixName sensor_resolution_index="2" special_mode_mask="HHT MODE">
+      <ISPPreview>whyred_imx486_ofilm_global_i_preview</ISPPreview>
+      <ISPSnapshot>whyred_imx486_ofilm_global_i_preview</ISPSnapshot>
+      <ISPVideo>whyred_imx486_ofilm_global_i_preview</ISPVideo>
+      <CPPPreview>whyred_imx486_ofilm_global_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>whyred_imx486_ofilm_global_i_cpp_snapshot_hht</CPPSnapshot>
+      <CPPLiveshot>whyred_imx486_ofilm_global_i_cpp_liveshot</CPPLiveshot>
+      <CPPVideo>whyred_imx486_ofilm_global_i_cpp_video</CPPVideo>
+      <A3Preview>whyred_imx486_ofilm_global_i_default_preview_3a</A3Preview>
+      <A3Video>whyred_imx486_ofilm_global_i_default_video_3a</A3Video>
+    </ChromatixName>
+	<ChromatixName sensor_resolution_index="2" special_mode_mask="BOKEH">
+      <ISPPreview>whyred_imx486_ofilm_global_i_bokeh_preview</ISPPreview>
+      <ISPSnapshot>whyred_imx486_ofilm_global_i_bokeh_preview</ISPSnapshot>
+      <ISPVideo>whyred_imx486_ofilm_global_i_default_video</ISPVideo>
+      <CPPPreview>whyred_imx486_ofilm_global_i_cpp_preview</CPPPreview>
+      <CPPSnapshot>whyred_imx486_ofilm_global_i_cpp_snapshot</CPPSnapshot>
+      <CPPLiveshot>whyred_imx486_ofilm_global_i_cpp_liveshot</CPPLiveshot>
+      <CPPVideo>whyred_imx486_ofilm_global_i_cpp_video</CPPVideo>
+      <A3Preview>whyred_imx486_ofilm_global_i_bokeh_preview_3a</A3Preview>
       <A3Video>whyred_imx486_ofilm_global_i_default_video_3a</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="3">
