@@ -1,4 +1,4 @@
-# Copyright (C) 2018-2018 The MoKee Open Source Project
+# Copyright (C) 2018 The MoKee Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -528,6 +528,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libStDrvInt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libStDrvInt.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libSubSystemShutdown.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSubSystemShutdown.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libUserAgent.so:$(TARGET_COPY_OUT_VENDOR)/lib/libUserAgent.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libVDClearShot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libVDClearShot.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libVDSuperPhotoAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libVDSuperPhotoAPI.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libXMFD_AgeGender.so:$(TARGET_COPY_OUT_VENDOR)/lib/libXMFD_AgeGender.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/lib_drplugin_server.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_drplugin_server.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/lib_lowlight.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_lowlight.so \
