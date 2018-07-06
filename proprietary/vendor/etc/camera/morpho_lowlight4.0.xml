@@ -1149,8 +1149,8 @@
       </iso>
 
 	  <iso value="204">
-        <ynr_weights>0,4,2,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,6,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <ynr_weights>0,12,2,1,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,12,5,3,3,3,2,2,2,2,2</cnr_weights>
         <y_nr_level>1</y_nr_level>
         <c_nr_level>15</c_nr_level>
         <c_nr_times>2</c_nr_times>
@@ -1166,12 +1166,12 @@
       </iso>
 
 	  <iso value="400">
-        <ynr_weights>0,6,2,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,6,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <ynr_weights>0,15,6,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,12,6,3,2,2,2,2,2,2,2</cnr_weights>
         <y_nr_level>1</y_nr_level>
         <c_nr_level>21</c_nr_level>
         <c_nr_times>3</c_nr_times>
-        <obc>3.0</obc>
+        <obc>2.0</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
@@ -1460,8 +1460,8 @@
       </iso>
 
 	  <iso value="204">
-        <ynr_weights>0,4,2,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,6,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <ynr_weights>0,12,2,1,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,12,5,3,3,3,2,2,2,2,2</cnr_weights>
         <y_nr_level>1</y_nr_level>
         <c_nr_level>15</c_nr_level>
         <c_nr_times>2</c_nr_times>
@@ -1477,12 +1477,12 @@
       </iso>
 
 	  <iso value="400">
-        <ynr_weights>0,6,2,2,1,1,1,1,1,1,1</ynr_weights>
-        <cnr_weights>0,6,4,4,4,4,2,2,2,2,2</cnr_weights>
+        <ynr_weights>0,15,6,2,1,1,1,1,1,1,1</ynr_weights>
+        <cnr_weights>0,12,6,3,2,2,2,2,2,2,2</cnr_weights>
         <y_nr_level>1</y_nr_level>
         <c_nr_level>21</c_nr_level>
         <c_nr_times>3</c_nr_times>
-        <obc>3.0</obc>
+        <obc>2.0</obc>
         <gain>100</gain>
         <gamma>100</gamma>
         <contrast>0</contrast>
