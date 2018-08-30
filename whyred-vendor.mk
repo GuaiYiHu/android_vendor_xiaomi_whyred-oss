@@ -1681,6 +1681,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db
 
 PRODUCT_PACKAGES += \
+    libantradio \
     vendor.qti.hardware.fm@1.0 \
     libgpustats \
     libsdm-disp-vndapis \
