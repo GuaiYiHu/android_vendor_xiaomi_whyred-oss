@@ -1624,8 +1624,6 @@ PRODUCT_PACKAGES += \
     WfdService \
     datastatusnotification \
     embms \
-    ims \
-    imssettings \
     uceShimService \
     CNEService \
     dpmserviceapp \
@@ -1636,5 +1634,7 @@ PRODUCT_PACKAGES += \
     SVIService \
     TimeService \
     colorservice \
+    ims \
+    imssettings \
     com.qti.snapdragon.sdk.display \
     qcrilhook
