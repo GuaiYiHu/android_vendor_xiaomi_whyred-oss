@@ -86,8 +86,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib/libdpmframework.so:system/lib/libdpmframework.so \
     vendor/xiaomi/whyred/proprietary/lib/libdpmtcm.so:system/lib/libdpmtcm.so \
     vendor/xiaomi/whyred/proprietary/lib/libfm-hci.so:system/lib/libfm-hci.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libicuuc-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/libicuuc-v27.so \
     vendor/xiaomi/whyred/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
     vendor/xiaomi/whyred/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libminikin-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/libminikin-v27.so \
     vendor/xiaomi/whyred/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/xiaomi/whyred/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/xiaomi/whyred/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
@@ -98,7 +100,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/xiaomi/whyred/proprietary/lib/libsd_sdk_display.so:system/lib/libsd_sdk_display.so \
     vendor/xiaomi/whyred/proprietary/lib/libsdm-disp-apis.so:system/lib/libsdm-disp-apis.so \
-    vendor/xiaomi/whyred/proprietary/lib/libskia.so:system/lib/libskia.so \
+    vendor/xiaomi/whyred/proprietary/vendor/lib/libskia.so:$(TARGET_COPY_OUT_VENDOR)/lib/libskia.so \
     vendor/xiaomi/whyred/proprietary/lib/libtrueportrait.so:system/lib/libtrueportrait.so \
     vendor/xiaomi/whyred/proprietary/lib/libwfdavenhancements.so:system/lib/libwfdavenhancements.so \
     vendor/xiaomi/whyred/proprietary/lib/libwfdcodecv4l2.so:system/lib/libwfdcodecv4l2.so \
@@ -161,7 +163,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib64/librcc.so:system/lib64/librcc.so \
     vendor/xiaomi/whyred/proprietary/lib64/libsd_sdk_display.so:system/lib64/libsd_sdk_display.so \
     vendor/xiaomi/whyred/proprietary/lib64/libsdm-disp-apis.so:system/lib64/libsdm-disp-apis.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libskia.so:system/lib64/libskia.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib64/libsoftkeymaster.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsoftkeymaster.so \
     vendor/xiaomi/whyred/proprietary/lib64/libtrueportrait.so:system/lib64/libtrueportrait.so \
     vendor/xiaomi/whyred/proprietary/lib64/libwfdavenhancements.so:system/lib64/libwfdavenhancements.so \
@@ -972,7 +973,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libhdcp1prov.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdcp1prov.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libhdcp2p2prov.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdcp2p2prov.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libhdr_tm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhdr_tm.so \
-    vendor/xiaomi/whyred/proprietary/vendor/lib/libicuuc-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/libicuuc-v27.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libidl.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libjpegdhw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdhw.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libjpegdmahw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdmahw.so \
@@ -986,7 +986,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libmdmdetect.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdmdetect.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libmdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdsprpc.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libmibokeh_636.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmibokeh_636.so \
-    vendor/xiaomi/whyred/proprietary/vendor/lib/libminikin-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/libminikin-v27.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libmm-color-convertor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-color-convertor.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libmm-hdcpmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-hdcpmgr.so \
     vendor/xiaomi/whyred/proprietary/vendor/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-qcamera.so \
