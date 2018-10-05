@@ -1592,13 +1592,13 @@ PRODUCT_PACKAGES += \
     CNEService \
     dpmserviceapp \
     qcrilmsgtunnel \
+    ims \
+    imssettings \
     FingerprintExtensionService \
     PowerOffAlarm \
     QFingerprintService \
     SVIService \
     TimeService \
     colorservice \
-    ims \
-    imssettings \
     com.qti.snapdragon.sdk.display \
     qcrilhook
