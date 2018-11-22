@@ -1332,4 +1332,5 @@ PRODUCT_PACKAGES += \
     FingerprintExtensionService \
     PowerOffAlarm \
     TimeService \
-    qcrilhook
+    qcrilhook \
+    chargeonlymode
