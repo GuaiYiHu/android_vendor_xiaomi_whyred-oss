@@ -138,7 +138,7 @@ special_mode_mask values:
       <CPPLiveshot>whyred_ov13855_sunny_cn_i_cpp_liveshot</CPPLiveshot>
       <A3Preview>whyred_ov13855_sunny_cn_i_default_preview_bu64297</A3Preview>
       <A3Video>whyred_ov13855_sunny_cn_i_default_video_bu64297</A3Video>
-    </ChromatixName>
+    </ChromatixName>     
     <ChromatixName sensor_resolution_index="1" special_mode_mask="HHT MODE">
       <ISPPreview>whyred_ov13855_sunny_cn_i_preview</ISPPreview>
       <ISPSnapshot>whyred_ov13855_sunny_cn_i_snapshot</ISPSnapshot>
@@ -161,7 +161,7 @@ special_mode_mask values:
       <A3Preview>whyred_ov13855_sunny_cn_i_flash_preview_3a</A3Preview>
       <A3Video>whyred_ov13855_sunny_cn_i_flash_video_3a</A3Video>
     </ChromatixName> 
-	  <ChromatixName sensor_resolution_index="1" special_mode_mask="WEIXIN">
+    <ChromatixName sensor_resolution_index="1" special_mode_mask="WEIXIN">
       <ISPPreview>whyred_ov13855_sunny_cn_i_video_weixin</ISPPreview>
       <ISPSnapshot>whyred_ov13855_sunny_cn_i_video_weixin</ISPSnapshot>
       <ISPVideo>whyred_ov13855_sunny_cn_i_video_weixin</ISPVideo>

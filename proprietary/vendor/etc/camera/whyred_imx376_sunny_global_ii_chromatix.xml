@@ -106,7 +106,6 @@ special_mode_mask values:
       <A3Preview>whyred_imx376_sunny_global_ii_fullsize_preview_3a</A3Preview>
       <A3Video>whyred_imx376_sunny_global_ii_fullsize_video_3a</A3Video>
     </ChromatixName>
-
     <ChromatixName sensor_resolution_index="1" special_mode_mask="FRONTFLASH">
       <ISPPreview>whyred_imx376_sunny_global_ii_flash_preview</ISPPreview>
       <ISPSnapshot>whyred_imx376_sunny_global_ii_flash_snapshot</ISPSnapshot>
@@ -162,6 +161,5 @@ special_mode_mask values:
       <A3Preview>whyred_imx376_sunny_global_ii_fullsize_preview_3a</A3Preview>
       <A3Video>whyred_imx376_sunny_global_ii_fullsize_video_3a</A3Video>
     </ChromatixName>
-
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
